@@ -27,3 +27,55 @@ La solución conecta tres capas clave para ofrecer una experiencia corporativa c
 │                           3. CAPA DE ANALÍTICA                          │
 │    📊 Power BI (Modelado Relacional + DAX + Tableros Ejecutivos)        │
 └─────────────────────────────────────────────────────────────────────────┘
+
+📂 Módulos del Proyecto
+Explora la documentación técnica detallada y los recursos visuales de cada componente haciendo clic en las siguientes secciones:
+
+📱 Módulo 1: Power Apps Canvas
+Enfoque: Interfaz responsiva, diseño UI/UX financiero y arquitectura modular.
+
+Lo más destacado:
+
+Estructura basada en contenedores de diseño adaptativos (Layout Containers).
+
+Desarrollo de Mega Menú dinámico y vistas compuestas (Split-View).
+
+Gestión de contexto con expresiones avanzadas en PowerFx (UpdateContext).
+
+⚙️ Módulo 2: Power Automate Cloud Flows
+Enfoque: Motor de integración, optimización de consultas y procesamiento de archivos.
+
+Lo más destacado:
+
+Optimización de lectura de datos con consultas de filtrado directo OData en SharePoint.
+
+Lógica condicional Upsert (Update/Insert) para prevenir registros duplicados.
+
+Parseo de esquemas JSON dinámicos y generación automatizada de reportes CSV.
+
+📊 Módulo 3: Power BI Analytics
+Enfoque: Modelado de datos, benchmarking interanual y visualización ejecutiva.
+
+Lo más destacado:
+
+Cuadro de mando para análisis de cultura organizacional e impacto estratégico.
+
+Implementación de medidas explícitas en DAX para análisis temporal y proporciones relativas.
+
+Modelado de datos relacional optimizado para la propagación eficiente de filtros.
+
+🛠️ Tecnologías y Herramientas Utilizadas
+Microsoft Power Platform: Power Apps Canvas, Power Automate, Power BI Desktop.
+
+Orígenes de datos & Ecosistema: SharePoint Online, Microsoft Planner, Microsoft 365.
+
+Lenguajes & Sintaxis: PowerFx, DAX, OData, JSON.
+
+👤 Autor
+Jorge Adrián Pérez
+
+Desarrollador Power Platform & Analista de Datos
+
+LinkedIn
+
+Perfil de GitHub
