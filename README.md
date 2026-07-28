@@ -20,7 +20,7 @@ La solución conecta tres capas clave para ofrecer una experiencia corporativa c
 
 Explora la documentación técnica detallada y los recursos visuales de cada componente haciendo clic en las siguientes secciones:
 
-### 📱 [Módulo 1: Power Apps Canvas](https://github.com/jorgeperez23/power-platform/blob/main/solucion-platform-planner-integration/power-bi/dashboard-summary.md)
+### 📱 [Módulo 1: Power Apps Canvas](https://github.com/jorgeperez23/power-platform/blob/main/solucion-platform-planner-integration/power-apps/app-documentation.md)
 * **Enfoque:** Interfaz responsiva, diseño UI/UX financiero y arquitectura modular.
 * **Lo más destacado:**
   * Estructura basada en contenedores de diseño adaptativos (*Layout Containers*).
