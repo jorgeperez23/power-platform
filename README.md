@@ -38,7 +38,7 @@ Explora la documentación técnica detallada y los recursos visuales de cada com
 
 ---
 
-### 📊 [Módulo 3: Power BI Analytics](https://github.com/jorgeperez23/power-platform/blob/main/solucion-platform-planner-integration/power-bi/dashboard-documentation.md)
+### 📊 [Módulo 3: Power BI Analytics](https://github.com/jorgeperez23/power-platform/blob/main/solucion-platform-planner-integration/power-bi/dashboard-summary.md)
 * **Enfoque:** Modelado de datos, benchmarking interanual y visualización ejecutiva.
 * **Lo más destacado:**
   * Cuadro de mando para análisis de cultura organizacional e impacto estratégico.
